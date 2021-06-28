@@ -1,0 +1,14 @@
+python>=3.6.8
+graphviz>=0.16
+joblib>=1.0.1
+lightgbm>=3.2.1
+networkx>=2.4
+numpy>=1.19.5
+pandas>=1.1.5
+scikit-learn>=0.24.1
+scipy>=1.1.0
+torch>=1.1.0
+torchsummary>=1.1
+torchvision>=0.3.0
+tornado>=4.5.3
+tqdm>=4.60.0

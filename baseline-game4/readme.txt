@@ -1,0 +1,1 @@
+Set the dataset path in the recall.py file and run the recall.py file to generate the result.
